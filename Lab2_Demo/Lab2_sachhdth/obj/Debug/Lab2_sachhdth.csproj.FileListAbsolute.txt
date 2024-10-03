@@ -1,0 +1,10 @@
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\obj\Debug\Lab2_sachhdth.csproj.AssemblyReference.cache
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\bin\Debug\Lab2_sachhdth.exe.config
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\bin\Debug\Lab2_sachhdth.exe
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\bin\Debug\Lab2_sachhdth.pdb
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\obj\Debug\Lab2_sachhdth.frmTrungTam.resources
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\obj\Debug\Lab2_sachhdth.Properties.Resources.resources
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\obj\Debug\Lab2_sachhdth.csproj.GenerateResource.cache
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\obj\Debug\Lab2_sachhdth.csproj.CoreCompileInputs.cache
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\obj\Debug\Lab2_sachhdth.exe
+Z:\2213868_Lab2\Lab2_sachhdth\Lab2_sachhdth\obj\Debug\Lab2_sachhdth.pdb

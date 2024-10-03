@@ -1,0 +1,11 @@
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\bin\Debug\Lab02_VD2_2212420_Nguyễn Ái Mừng.exe.config
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\bin\Debug\Lab02_VD2_2212420_Nguyễn Ái Mừng.exe
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\bin\Debug\Lab02_VD2_2212420_Nguyễn Ái Mừng.pdb
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\obj\Debug\Lab02_VD2_2212420_Nguyễn Ái Mừng.csproj.AssemblyReference.cache
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\obj\Debug\Lab02_VD2_2212420_Nguyễn_Ái_Mừng.frmGiaoVien.resources
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\obj\Debug\Lab02_VD2_2212420_Nguyễn_Ái_Mừng.frmTBGiaoVien.resources
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\obj\Debug\Lab02_VD2_2212420_Nguyễn_Ái_Mừng.Properties.Resources.resources
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\obj\Debug\Lab02_VD2_2212420_Nguyễn Ái Mừng.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\obj\Debug\Lab02_VD2_2212420_Nguyễn Ái Mừng.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\obj\Debug\Lab02_VD2_2212420_Nguyễn Ái Mừng.exe
+C:\Users\CICT\Downloads\Desktop-Development-main\Desktop-Development-main\Lab02_2212420_Nguyễn Ái Mừng\Lab02_VD2_2212420_Nguyễn Ái Mừng\obj\Debug\Lab02_VD2_2212420_Nguyễn Ái Mừng.pdb
