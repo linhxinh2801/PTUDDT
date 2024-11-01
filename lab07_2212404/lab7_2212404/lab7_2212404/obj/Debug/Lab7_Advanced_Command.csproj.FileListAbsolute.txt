@@ -1,0 +1,11 @@
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\bin\Debug\lab7_2212404.exe.config
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\bin\Debug\lab7_2212404.exe
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\bin\Debug\lab7_2212404.pdb
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\obj\Debug\Lab7_Advanced_Command.csproj.AssemblyReference.cache
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\obj\Debug\lab7_2212404.Form1.resources
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\obj\Debug\lab7_2212404.Properties.Resources.resources
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\obj\Debug\lab7_2212404.exe
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\obj\Debug\lab7_2212404.pdb
+Z:\lab07_2212404\lab7_2212404\lab7_2212404\obj\Debug\lab7_2212404.FoodInfoForm.resources
