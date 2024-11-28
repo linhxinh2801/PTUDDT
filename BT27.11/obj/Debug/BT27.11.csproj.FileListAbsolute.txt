@@ -1,0 +1,7 @@
+C:\BT_Nhóm\BT27.11\obj\Debug\BT27.11.csproj.AssemblyReference.cache
+C:\BT_Nhóm\BT27.11\obj\Debug\BT27._11.frmDanhSachDVKS.resources
+C:\BT_Nhóm\BT27.11\obj\Debug\BT27._11.frmThemDV.resources
+C:\BT_Nhóm\BT27.11\obj\Debug\BT27._11.frmXoaCapNhatDV.resources
+C:\BT_Nhóm\BT27.11\obj\Debug\BT27._11.Properties.Resources.resources
+C:\BT_Nhóm\BT27.11\obj\Debug\BT27.11.csproj.GenerateResource.cache
+C:\BT_Nhóm\BT27.11\obj\Debug\BT27.11.csproj.CoreCompileInputs.cache
